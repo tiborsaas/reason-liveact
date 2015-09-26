@@ -13,6 +13,11 @@ This project enables you to play live-acts in Propellerheads Reason. I created t
  * Select on each combinator which group of MIDI knobs to listen to
  * Turn REX loops on/off in each combinator and keep them playing tempo synced by sending MIDI notes
 
+# Usage
+Main idea is to use the combinators as individual tracks. Send MIDI notes from C1 to D#2 and toggle loops on and off. By default the combinator has 4 loops included. The Kong's upper 8 slots are directly triggered, this is handy for individual sample triggering.
+
+You can chose which output to send each combinator: A or B. In a main mixer, you can adjust levels and crossfade between them, like a DJ mixer. Alternatively, you can just route the Audio mergers to the hardware interface and use an analougue mixer.
+
 # Required Rack Extensions
  * A/B Audio & CV Switch (Free, [download](https://shop.propellerheads.se/product/ab-audio-cv-switch/))
  * Blamsoft Polymodular Audio merger (Free, [download](https://shop.propellerheads.se/product/polymodular-audio-merger/))
