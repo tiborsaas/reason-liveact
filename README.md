@@ -18,6 +18,6 @@ This project enables you to play live-acts in Propellerheads Reason. I created t
  * Blamsoft Polymodular Audio merger (Free, [download](https://shop.propellerheads.se/product/polymodular-audio-merger/))
  * Blamsoft Polymodular CV splitter (Free, [download](https://shop.propellerheads.se/product/polymodular-cv-splitter/))
  * Morfin XF Crossfader (Free, [download](https://shop.propellerheads.se/product/morfin-xf-crossfader/))
- * Alias8 CV Controller (Paid, [download](https://shop.propellerheads.se/product/alias8-cv-controller/))
+ * CV8x4 CV Generator (Free, [download](https://shop.propellerheads.se/product/cv8x4-cv-generator/))
 
 `Please note` You don't need the Alias8 hardware, any device MIDI is good with knobs / faders.
