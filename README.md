@@ -4,7 +4,7 @@ This project enables you to play live-acts in Propellerheads Reason. I created t
 # Requirements
  * A MIDI controller with at least 8 knobs or faders
  * Some time to convert your tracks to combinators
- * Reason 8 is ideal, because it's easier to switch focus of combinators, but any Reason version is good that supports Rack Extensions
+ * Reason 8.3 is required that's what I used to edit the template
 
 # Features
  * Forward CV messages to the currently selected combinator
